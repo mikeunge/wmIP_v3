@@ -22,6 +22,4 @@ And the other one, `$ ./ip.txt`, in here is the **public ip** stored.
 
 ### Note 📓
 
-It was compiled in **Linux**, it was tested in **Linux**. 🐧
-
-I think it will work with *Windows* or *MacOS*, if not, please let me know.
+Works with **Linux** and **Windows**. 
